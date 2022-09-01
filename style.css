@@ -1,0 +1,12 @@
+#resultado{
+    font-family: American Typewriter, serif;
+    padding: 5px;
+    background-color: rgba(119,136,153);
+    font-size: 20px;
+    margin-top: 15px;
+    max-width: 350px;
+    margin-left: 15px;
+    border: 1px solid black ;
+    border-radius: 10px;
+    box-shadow: 2px 2px black;
+}
